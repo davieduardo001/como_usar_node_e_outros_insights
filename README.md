@@ -28,7 +28,7 @@ Este repositorio tem como objetivo apenas o entendimento do que eh o React Nativ
 Espero que aproveitem de algo :P
 Videos serao adicionados ao decorrer do desenvolvimento desta documentacao, qualquer duvida soh mandar um
 
-[ ] Instalacao NodeJS e Utilizacao
+[X] Instalacao NodeJS e Utilizacao [link para o video](https://studio.youtube.com/video/W51cTX1Rh6M/edit)
 
 [ ] Instalacao Expo
 
@@ -69,7 +69,9 @@ Para o tutorial de Node, iremos considerar que esta utilizando o Windows, 11, ou
 4.
 
 > Agora eh instalar normalmente!!
+
 ![Alt text](./imgs/image1.png)
+
 > Apenas um next next finish padrao :P
 
 ---
@@ -149,11 +151,11 @@ node ./index.js # leve em conta que o ./index.js eh o nome do arquivo, e pode se
 
 (3) alguem criou um script (igual ao nosso no exemplo de como usar o node) e jogou na internet, o Npm, pegou esse script e colocou dentro do [banco de dados](https://docs.npmjs.com/searching-for-and-choosing-packages-to-download) do proprio npm e agora voce pode executar em sua maquina
 
-*muita info?* eh eu sei, mas, acho interessante salientar esses pequenos pontos
+*muita info? eh eu sei, mas, acho interessante salientar esses pequenos pontos*
 
 ---
 
-como exemplo utilizaremos um pacote chamado `pokemon-me` ele vai gerar um pokemon e printar na tela, coisinha simples ^^ o codigo e pacote se entram [nesse link](https://www.npmjs.com/package/pokemon-me?activeTab=readme)
+como exemplo utilizaremos um pacote chamado `pokemon-me` ele vai gerar um pokemon e printar na tela, coisinha simples ^^ o codigo e pacote [nesse link](https://www.npmjs.com/package/pokemon-me?activeTab=readme)
 
 ---
 
