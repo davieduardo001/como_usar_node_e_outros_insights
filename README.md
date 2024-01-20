@@ -1,6 +1,8 @@
-# Aula de React Native e EXPO
+# Aula de NODE, JS, Expo.......
 
 Este repositorio tem como objetivo apenas o entendimento do que eh o React Native, Expo, NPM, NPX, NODE, e seus agregados. Para ela eh interessante ja ter previamente utilizado uma linguagem de programacao (tanto faz qual seja). De resto, os conteudos apresentados sao as mostradas no **INDEX**
+
+*a parte de instalacao do expo, e de utilizacao do routes foram colocados em outros repositorios, indicados apos o **index***
 
 ## INDEX
 
@@ -30,7 +32,7 @@ Videos serao adicionados ao decorrer do desenvolvimento desta documentacao, qual
 
 [X] Instalacao NodeJS e Utilizacao [link para o video](https://studio.youtube.com/video/W51cTX1Rh6M/edit)
 
-[ ] Instalacao Expo
+[X] Instalacao Expo [link para o video](https://www.youtube.com/watch?v=bvpnqqSo_D8) && [link para o repositorio](https://github.com/davieduardo001/como-usar-expo-react-native-e-outros-insights)
 
 [ ] Utilizacao do Expo Routes
 
