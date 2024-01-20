@@ -30,7 +30,7 @@ Este repositorio tem como objetivo apenas o entendimento do que eh o React Nativ
 Espero que aproveitem de algo :P
 Videos serao adicionados ao decorrer do desenvolvimento desta documentacao, qualquer duvida soh mandar um
 
-[X] Instalacao NodeJS e Utilizacao [link para o video](https://studio.youtube.com/video/W51cTX1Rh6M/edit)
+[X] Instalacao NodeJS e Utilizacao [link para o video](https://www.youtube.com/watch?v=W51cTX1Rh6M)
 
 [X] Instalacao Expo [link para o video](https://www.youtube.com/watch?v=bvpnqqSo_D8) && [link para o repositorio](https://github.com/davieduardo001/como-usar-expo-react-native-e-outros-insights)
 
